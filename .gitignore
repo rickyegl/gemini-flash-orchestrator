@@ -1,0 +1,6 @@
+# Local run logs and results
+state/
+__pycache__/
+*.pyc
+dist/
+*.skill
